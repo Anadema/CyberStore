@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Tableau des métiers de la cybersécurité</title>
+    <style>
+        /* Cible les en-têtes des colonnes (domaines) et les met en rouge */
+        th {
+            color: red;
+        }
+    </style>
+</head>
+<body>
 <table>
     <tr>
         <th>Sécurité offensive</th>
@@ -180,3 +193,5 @@
         <td></td>
     </tr>
 </table>
+</body>
+</html>
